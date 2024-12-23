@@ -1,0 +1,29 @@
+{
+  "repoUrl": "https://github.com/feit-comp30019/2024s2-project-2-bean-bros",
+  "teamName": "Bean Bros",
+  "teamMembers": [
+    {
+      "name": "Kam Zhan Yue",
+      "github": "kam-zhan-yue",
+      "email": "zykam@student.unimelb.edu.au"
+    },
+    {
+      "name": "Evan Liapakis",
+      "github": "kraklo",
+      "email": "eliapakis@student.unimelb.edu.au"
+    },
+    {
+      "name": "Iat Long Guan",
+      "github": "tolbertowski",
+      "email": "iguan@student.unimelb.edu.au"
+    },
+    {
+      "name": "Jun Yeo",
+      "github": "yeo-jy",
+      "email": "yeojy@student.unimelb.edu.au"
+    }
+  ],
+  "gameTitle": "Relic",
+  "gameBlurb": "Relic is a third person, angled top-down puzzle game based around perception, light and memory. The player must navigate through a series of levels, interacting with objects such as switches, buttons and levers. The main mechanic of the game is a system in which objects that are no longer observed by a light source leave an imprint of their last seen location. However the real object can still move around without being observed by the player.",
+  "videoUrl": "https://www.youtube.com/watch?v=lfvMiIlOZsg"
+}

@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04ffeae326d004fc3bc21f1dbf1078ba, type: 3}
+  m_Name: Game Settings
+  m_EditorClassIdentifier: 
+  startAutomatically: 0
+  startLevel: 1
+  levels:
+  - active: 1
+    menu: 0
+    name: Start Scene
+    description: 
+    buildIndex: 0
+  - active: 0
+    menu: 0
+    name: Moving Around
+    description: 
+    buildIndex: 1
+  - active: 1
+    menu: 1
+    name: Let There Be Light
+    description: 
+    buildIndex: 2
+  - active: 1
+    menu: 1
+    name: Using Shadows
+    description: 
+    buildIndex: 3
+  - active: 1
+    menu: 1
+    name: The Door Stays Open
+    description: 
+    buildIndex: 4
+  - active: 0
+    menu: 0
+    name: Stopped in their Tracks
+    description: 
+    buildIndex: 5
+  - active: 0
+    menu: 0
+    name: 2 Switches, 1 Block
+    description: 
+    buildIndex: 6
+  - active: 1
+    menu: 1
+    name: Trapped Block
+    description: 
+    buildIndex: 7
+  - active: 0
+    menu: 0
+    name: Controlling the Curse
+    description: 
+    buildIndex: 8
+  - active: 1
+    menu: 1
+    name: Blocks in Tandem
+    description: 
+    buildIndex: 9
+  - active: 1
+    menu: 1
+    name: Quantum Superposition
+    description: 
+    buildIndex: 10
+  - active: 0
+    menu: 0
+    name: Ethereal Shenanigans
+    description: 
+    buildIndex: 11
+  - active: 1
+    menu: 1
+    name: Remote-Controlled Block
+    description: 
+    buildIndex: 12
+  - active: 1
+    menu: 1
+    name: Amnesia
+    description: 
+    buildIndex: 17
+  - active: 1
+    menu: 1
+    name: Purposeful Forgetfulness
+    description: 
+    buildIndex: 18
+  - active: 0
+    menu: 0
+    name: Bait and Switch
+    description: 
+    buildIndex: 13
+  - active: 1
+    menu: 1
+    name: Beware the Prisoners
+    description: 
+    buildIndex: 14
+  - active: 1
+    menu: 1
+    name: Leap of Faith
+    description: 
+    buildIndex: 15
+  - active: 1
+    menu: 0
+    name: End Cutscene
+    description: 
+    buildIndex: 19
+  - active: 1
+    menu: 0
+    name: Game Completed
+    description: 
+    buildIndex: 16

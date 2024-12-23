@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b798e7ab8fef94885bf64f46d2f12a67, type: 3}
+  m_Name: Sound Database
+  m_EditorClassIdentifier: 
+  sounds:
+  - id: START
+    config: {fileID: 11400000, guid: dcf3d0e4d4fae4aedbf489e7fc30bf57, type: 2}
+  - id: SWITCH
+    config: {fileID: 11400000, guid: 67c70f6286fa14148b52cda4f52d3f60, type: 2}
+  - id: GATE_OPEN
+    config: {fileID: 11400000, guid: cbfd99869118784408cd9f0a16b94f5d, type: 2}
+  - id: GATE_CLOSE
+    config: {fileID: 11400000, guid: b2666a260806f7b439e4109d434ee6d6, type: 2}
+  - id: BLOCK_MOVING
+    config: {fileID: 11400000, guid: 1146a57925437f64886b5905835d3836, type: 2}
+  - id: SOFT_OPEN
+    config: {fileID: 11400000, guid: 7a34af6c3ce57e44fa55e517e0329690, type: 2}
+  - id: SOFT_CLOSE
+    config: {fileID: 11400000, guid: 64c9da1865d5b7a448094eaa91893e67, type: 2}
+  - id: FLASHLIGHT_SWITCH
+    config: {fileID: 11400000, guid: 9ad294f706331184490d121943002d33, type: 2}
+  - id: CURSED_ACC
+    config: {fileID: 11400000, guid: 119d6de43c3d8d640b775baa9d8cf55f, type: 2}
+  - id: QUANTUM_TELEPORT
+    config: {fileID: 11400000, guid: e531806a5728bd345b43f97c3fa39e04, type: 2}
+  - id: LEVEL_COMPLETE
+    config: {fileID: 11400000, guid: 94737fe829d3a164aa3e18215beb0e25, type: 2}
+  - id: STATUE_MOVING
+    config: {fileID: 11400000, guid: 3c836e8b2faed4048b3cd97fdefc68d4, type: 2}
+  - id: STATUE_APPEAR
+    config: {fileID: 11400000, guid: b2f5bc85a86147a469664fe583dc95a7, type: 2}
+  - id: FLICKER
+    config: {fileID: 11400000, guid: 350301409b1924fd5b66f3585d10e654, type: 2}

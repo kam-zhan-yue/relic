@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Plugins/Sirenix.meta
+guid: 7db84c72b2408b24da5a225550b562ff
+folderAsset: yes
+DefaultImporter:
+=======
+guid: 08379ccefc05200459f90a1c0711a340
+NativeFormatImporter:
+>>>>>>> aad19be (Add Odin Inspector and UniTask):Assets/Plugins/Sirenix/Odin Inspector/Assets/Editor/OdinPathLookup.asset.meta
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
